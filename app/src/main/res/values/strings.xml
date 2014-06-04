@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TurtleNotes</string>
+    <string name="hello_world">Wussup</string>
+    <string name="action_settings">Aboot</string>
+    <string name="saved">TurtleNotes - Item Saved</string>
+    <string name="title_plus_ver">TurtleNotes - v. 0.2 alpha</string>
+    <string name="deleted">TurtleNotes - Item Deleted</string>
+    <string name="enter_item">Enter todo here...</string>
+    <string name="title_activity_aboot">AbootActivity</string>
+    <string name="created_by">Created by Edwin Finch</string>
+    <string name="name">TurtleNotes for Pebble</string>
+    <string name="version">Version 0.2 alpha</string>
+
+</resources>
