@@ -9,8 +9,9 @@
     <string name="deleted">TurtleNotes - Item Deleted</string>
     <string name="enter_item">Enter todo here...</string>
     <string name="title_activity_aboot">AbootActivity</string>
-    <string name="created_by">Created by Edwin Finch</string>
+    <string name="created_by">Created by and developed by: Edwin Finch</string>
     <string name="name">TurtleNotes for Pebble</string>
     <string name="version">Version 0.2 alpha</string>
+    <string name="aboot">Aboot TurtleNotes</string>
 
 </resources>

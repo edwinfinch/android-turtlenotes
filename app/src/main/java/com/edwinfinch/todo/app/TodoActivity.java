@@ -46,6 +46,10 @@ public class TodoActivity extends Activity {
         }
     }
 
+    public void syncNotes(View v){
+
+    }
+
     private void setupListViewListener(){
         lvItems.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener() {
             @Override
